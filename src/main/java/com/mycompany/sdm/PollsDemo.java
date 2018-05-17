@@ -24,7 +24,7 @@ public class PollsDemo {
     public static void main(String[] args) {
 
         Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl("http://192.168.0.5")
+                .baseUrl("http://192.168.0.6")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
 
