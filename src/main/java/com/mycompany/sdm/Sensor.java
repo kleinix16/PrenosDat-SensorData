@@ -89,7 +89,7 @@ public class Sensor {
             }
         }
         System.out.print("------------------------------------------------------------------\n\r");
-        TimeUnit.SECONDS.sleep(5);
+        TimeUnit.SECONDS.sleep(15);
         }
 
     }
